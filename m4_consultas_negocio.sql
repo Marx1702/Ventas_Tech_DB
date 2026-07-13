@@ -1,5 +1,5 @@
 -- ==============================================================================
--- Archivo: m4_consultas_negocio_sqlserver.sql
+-- Archivo: m4_consultas_negocio.sql
 -- Base de Datos: Ventas_Tech_DB
 -- Descripción: Consultas de métricas clave para la reunión comercial de RetailPro
 -- ==============================================================================
